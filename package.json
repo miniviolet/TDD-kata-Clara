@@ -1,0 +1,27 @@
+{
+  "name": "tdd-kata-clara",
+  "version": "1.0.0",
+  "description": "Want to contribute? Make a pull request (PR) to [develop](https://github.com/garora/TDD-Katas/tree/develop) branch. Do not make any PR to Master branch.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  },
+  "scripts": {
+    "chai": "*",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garora/TDD-Katas.git"
+  },
+  "author": "Clara Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garora/TDD-Katas/issues"
+  },
+  "homepage": "https://github.com/garora/TDD-Katas#readme",
+  "scripts": {
+      "test": "mocha"
+    }
+}
